@@ -1,0 +1,17 @@
+C:\Users\Administrator\Documents\ahmad\CHAT\CHAT\obj\Debug\net8.0-windows\CHAT.Form1.resources
+C:\Users\Administrator\Documents\ahmad\CHAT\CHAT\obj\Debug\net8.0-windows\CHAT.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\ahmad\CHAT\CHAT\obj\Debug\net8.0-windows\CHAT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Documents\ahmad\CHAT\CHAT\obj\Debug\net8.0-windows\CHAT.AssemblyInfoInputs.cache
+C:\Users\Administrator\Documents\ahmad\CHAT\CHAT\obj\Debug\net8.0-windows\CHAT.AssemblyInfo.cs
+C:\Users\Administrator\Documents\ahmad\CHAT\CHAT\obj\Debug\net8.0-windows\CHAT.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\ahmad\CHAT\CHAT\bin\Debug\net8.0-windows\CHAT.exe
+C:\Users\Administrator\Documents\ahmad\CHAT\CHAT\bin\Debug\net8.0-windows\CHAT.deps.json
+C:\Users\Administrator\Documents\ahmad\CHAT\CHAT\bin\Debug\net8.0-windows\CHAT.runtimeconfig.json
+C:\Users\Administrator\Documents\ahmad\CHAT\CHAT\bin\Debug\net8.0-windows\CHAT.dll
+C:\Users\Administrator\Documents\ahmad\CHAT\CHAT\bin\Debug\net8.0-windows\CHAT.pdb
+C:\Users\Administrator\Documents\ahmad\CHAT\CHAT\obj\Debug\net8.0-windows\CHAT.dll
+C:\Users\Administrator\Documents\ahmad\CHAT\CHAT\obj\Debug\net8.0-windows\refint\CHAT.dll
+C:\Users\Administrator\Documents\ahmad\CHAT\CHAT\obj\Debug\net8.0-windows\CHAT.pdb
+C:\Users\Administrator\Documents\ahmad\CHAT\CHAT\obj\Debug\net8.0-windows\CHAT.genruntimeconfig.cache
+C:\Users\Administrator\Documents\ahmad\CHAT\CHAT\obj\Debug\net8.0-windows\ref\CHAT.dll
+C:\Users\Administrator\Documents\ahmad\CHAT\CHAT\obj\Debug\net8.0-windows\CHAT.Form2.resources
