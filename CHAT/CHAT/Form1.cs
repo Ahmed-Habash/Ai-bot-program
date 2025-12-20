@@ -14,6 +14,7 @@ namespace CHAT
         private OpenAIService? _aiService;
         private readonly List<ChatMessage> _conversation = new();
         private List<ChatMessage> _conversationHistory = new List<ChatMessage>();
+        private string _openAiKey = "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";
 
         public Form1()
         {
@@ -47,6 +48,7 @@ namespace CHAT
             {
                 MessageBox.Show($"OpenAIService init failed: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 buttonSend.Enabled = false;
+
             }
 
             this.Resize += Form1_Resize;
